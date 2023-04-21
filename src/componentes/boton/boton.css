@@ -1,0 +1,20 @@
+.boton-crear{
+    font-family: 'Montserrat', sans-serif;    
+    padding: 24px 32px;
+    border: none;
+    margin: 32px 0px;
+    cursor: pointer;
+    background-color: #6278F7;
+    mix-blend-mode: normal;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+}
+.boton-crear:hover{
+    color: #95FFD4;
+}
